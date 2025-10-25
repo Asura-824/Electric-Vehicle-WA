@@ -83,7 +83,7 @@ Note: Installing `pyspark` via pip will download a Spark distribution. For produ
 
 ## License
 
-This project is provided under the MIT License. See LICENSE (or add one) if you want to include a license file.
+This project is provided under the Apache License. See LICENSE (or add one) if you want to include a license file.
 
 ## Contact
 
